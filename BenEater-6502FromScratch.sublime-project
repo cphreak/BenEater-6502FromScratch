@@ -2,8 +2,11 @@
 	"folders":
 	[
 		{
-			"path": "6502-monitor"
-		}
+			"path": "6502-monitor",
+		},
+		{
+			"path": "makerom"
+		},
 	],
 	"settings":
   {
@@ -11,5 +14,5 @@
     //"board": "arduino:avr:uno",
     //"port": "/dev/tty.usbmodem1421",
     //"sketchbook.path": "/Users/scl/src/BenEater/6502-monitor"
-  }
+  },
 }
