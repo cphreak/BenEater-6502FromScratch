@@ -1,0 +1,15 @@
+{
+  "folders":
+  [
+    {
+      "path": "."
+    }
+  ],
+  "settings":
+  {
+    "path": "/Applications/Development/Arduino IDE.app/Contents/MacOS/Arduino IDE",
+    //"board": "arduino:avr:uno",
+    //"port": "/dev/tty.usbmodem1421",
+    "sketchbook.path": "/Users/scl/src/BenEater/6502-monitor"
+  }
+}
